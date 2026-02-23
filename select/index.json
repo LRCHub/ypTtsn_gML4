@@ -1,0 +1,328 @@
+{
+  "version": 1,
+  "base_track": "Blue Sky Blue",
+  "base_artist": "Flower",
+  "createdAt": "2026-02-23T11:50:40.415807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blue Sky Blue",
+      "artist": "Feeder",
+      "has_synced": true,
+      "path": "select/01_Blue_Sky_Blue_Feeder.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blue Sky Blue Version2016",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/02_Blue_Sky_Blue_Version2016_Flower.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Sky Blue",
+      "artist": "Pete Murray",
+      "has_synced": true,
+      "path": "select/03_Blue_Sky_Blue_Pete_Murray.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Sky Blue",
+      "artist": "Pete Murray feat. Fantine",
+      "has_synced": true,
+      "path": "select/04_Blue_Sky_Blue_Pete_Murray_feat._Fantine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blue Sky Blue",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/05_Blue_Sky_Blue_Flower.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blue-Sky-Blue",
+      "artist": "Buono!",
+      "has_synced": true,
+      "path": "select/06_Blue-Sky-Blue_Buono!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Sky Blue (feat. Fantine)",
+      "artist": "Pete Murray",
+      "has_synced": true,
+      "path": "select/07_Blue_Sky_Blue_(feat._Fantine)_Pete_Murray.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Sky Blue",
+      "artist": "Rythem",
+      "has_synced": false,
+      "path": "select/08_Blue_Sky_Blue_Rythem.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Star Sky",
+      "artist": "Two Steps From Hell",
+      "has_synced": true,
+      "path": "select/09_Star_Sky_Two_Steps_From_Hell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bigger Than The Whole Sky",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/10_Bigger_Than_The_Whole_Sky_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Empty Sky",
+      "artist": "DESERT STAR",
+      "has_synced": true,
+      "path": "select/11_Empty_Sky_DESERT_STAR.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Eye in the Sky",
+      "artist": "The Alan Parsons Project",
+      "has_synced": true,
+      "path": "select/12_Eye_in_the_Sky_The_Alan_Parsons_Project.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spirit In The Sky",
+      "artist": "Norman Greenbaum",
+      "has_synced": true,
+      "path": "select/13_Spirit_In_The_Sky_Norman_Greenbaum.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Eyes Like the Sky",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/14_Eyes_Like_the_Sky_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Night Sky",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/15_Night_Sky_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "(Ghost) Riders In the Sky (Live)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/16_(Ghost)_Riders_In_the_Sky_(Live)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "(Ghost) Riders In the Sky (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/17_(Ghost)_Riders_In_the_Sky_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "(Ghost) Riders in the Sky",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/18_(Ghost)_Riders_in_the_Sky_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Amarillo Sky",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/19_Amarillo_Sky_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Blue Clear Sky",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/20_Blue_Clear_Sky_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Blue Clear Sky (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/21_Blue_Clear_Sky_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Blue Clear Sky - Edit",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/22_Blue_Clear_Sky_-_Edit_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Blue Sky Rain",
+      "artist": "Caroline Spence",
+      "has_synced": true,
+      "path": "select/23_Blue_Sky_Rain_Caroline_Spence.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Green, Green Sky",
+      "artist": "The Kernal",
+      "has_synced": false,
+      "path": "select/24_Green,_Green_Sky_The_Kernal.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Sky Blue Sky",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/25_Sky_Blue_Sky_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Blue, Blue Day",
+      "artist": "Don Gibson",
+      "has_synced": true,
+      "path": "select/26_Blue,_Blue_Day_Don_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Blue Blue (Live)",
+      "artist": "iamamiwhoami",
+      "has_synced": true,
+      "path": "select/27_Blue_Blue_(Live)_iamamiwhoami.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Blue Blue",
+      "artist": "iamamiwhoami",
+      "has_synced": false,
+      "path": "select/28_Blue_Blue_iamamiwhoami.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Blue Blue Ocean",
+      "artist": "Echo & The Bunnymen",
+      "has_synced": true,
+      "path": "select/29_Blue_Blue_Ocean_Echo_&_The_Bunnymen.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Blue, Blue Day",
+      "artist": "Connie Francis",
+      "has_synced": false,
+      "path": "select/30_Blue,_Blue_Day_Connie_Francis.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Blue Blue Sky",
+      "artist": "Alan Parsons",
+      "has_synced": true,
+      "path": "select/31_Blue_Blue_Sky_Alan_Parsons.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Blue, Blue Day",
+      "artist": "Don Gibson",
+      "has_synced": false,
+      "path": "select/32_Blue,_Blue_Day_Don_Gibson.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Blue, Blue Day",
+      "artist": "Roy Orbison",
+      "has_synced": false,
+      "path": "select/33_Blue,_Blue_Day_Roy_Orbison.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "I'm In a Blue, Blue Mood",
+      "artist": "Roy Orbison",
+      "has_synced": true,
+      "path": "select/34_I'm_In_a_Blue,_Blue_Mood_Roy_Orbison.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "He's a Good Sposato (I Love Ya Blue-Blue)",
+      "artist": "Latterman",
+      "has_synced": false,
+      "path": "select/35_He's_a_Good_Sposato_(I_Love_Ya_Blue-Blue)_Latterman.txt"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Blue Blue",
+      "artist": "Iamamiwhoami",
+      "has_synced": true,
+      "path": "select/36_Blue_Blue_Iamamiwhoami.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "blue blue",
+      "artist": "Kobukuro",
+      "has_synced": true,
+      "path": "select/37_blue_blue_Kobukuro.lrc"
+    },
+    {
+      "id": "lrclib_38",
+      "source": "lrclib",
+      "title": "blue blue",
+      "artist": "コブクロ",
+      "has_synced": true,
+      "path": "select/38_blue_blue_コブクロ.lrc"
+    },
+    {
+      "id": "lrclib_39",
+      "source": "lrclib",
+      "title": "Blue Blue Day",
+      "artist": "Don Gibson",
+      "has_synced": true,
+      "path": "select/39_Blue_Blue_Day_Don_Gibson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bluesky",
+      "artist": "flowertty",
+      "has_synced": false,
+      "path": "select/pl_01_bluesky_flowertty.txt"
+    }
+  ]
+}
